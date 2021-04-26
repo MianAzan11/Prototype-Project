@@ -18,7 +18,7 @@ class login extends Component {
       <input type="text" placeholder="username"/>
       <input type="password" placeholder="password"/>
       <button>login</button>
-      <p class="message">Not registered?  rr
+      <p class="message">Not registered? 
       
                 <Link className="nav-link" to={"/sign-up"}>Sign up</Link>
                 
