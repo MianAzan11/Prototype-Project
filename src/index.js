@@ -16,6 +16,7 @@ ReactDOM.render(
     
     <BrowserRouter>
     <App />
+    
     </BrowserRouter>
     {/* <Home/> */}
     {/* <Details/> */}
